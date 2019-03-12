@@ -1,8 +1,7 @@
 body {
-  margin: 50px 50px 50px 50px;
+  margin: 40px;
   text-align: justify;
-  font-family: marion;
-  font-weight: lighter;
+  font-family: helvetica;
   line-height: 30px;
   font-size: 18px;
 }
@@ -22,22 +21,14 @@ li {
 
 a {
   text-decoration: none;
-  border: 2px solid blue;
-  border-radius: 6px;
-  padding: 4px 6px 4px 6px;
-  font-family: helvetica;
-  font-weight: bold;
-  font-size: 14px;
 }
 
 a:visited {
   color: blue;
-  border: 2px solid blue;
 }
 
 a:hover {
-  color: purple;
-  border: 2px solid purple;
+  color: orange;
 }
 
 img {
